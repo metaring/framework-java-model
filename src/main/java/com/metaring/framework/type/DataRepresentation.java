@@ -60,6 +60,10 @@ public interface DataRepresentation extends CoreType, Iterable<DataRepresentatio
     Boolean isEmpty(String property);
     Boolean isEmpty(int position);
 
+    Boolean isNullOrEmpty();
+    Boolean isNullOrEmpty(String property);
+    Boolean isNullOrEmpty(int position);
+
     Integer length();
     Integer getLength(String property);
     Integer getLength(int position);
