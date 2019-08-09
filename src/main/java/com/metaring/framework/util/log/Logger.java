@@ -28,7 +28,7 @@ public interface Logger {
     String exiting(String methodName);
     String info(String message);
     String debug(String message);
-    String config(String message, Object var2);
+    String config(String message, Object obj);
     String warning(String message);
     String severe(String message);
 }
