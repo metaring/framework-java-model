@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>framework-java-model</artifactId>
-    <version>1.5.4-SNAPSHOT</version>
+    <version>1.5.5-SNAPSHOT</version>
 
     <name>MetaRing Framework Model - Java</name>
     <description>All the conceptual space of the MetaRing Framework for Java</description>
